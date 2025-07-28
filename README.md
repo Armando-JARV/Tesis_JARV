@@ -6,14 +6,14 @@ Como parte de los objetivos del proyecto, se desarrollaron códigos de libre acc
 
 Estos códigos, junto con manuales explicativos y material de apoyo, se encuentran disponibles en este repositorio y organizados en formato interactivo mediante GitBook.
 
-📘 **GitBook del proyecto:**  
+**GitBook del proyecto:**  
 [https://github.com/Armando-JARV/Tesis_JARV](https://github.com/Armando-JARV/Tesis_JARV) *(Cuando lo publiques en GitBook, puedes reemplazar este enlace por el directo al GitBook.)*
 
 ---
 
-## 📚 Contenido del GitBook
+##  Contenido del GitBook
 
-### 🧪 Selección de subconjuntos y representación química
+###  Selección de subconjuntos y representación química
 
 - **Manual de métodos de agrupamiento y teoría:**  
   Descripción de algoritmos de agrupamiento y su aplicación práctica.
@@ -26,7 +26,7 @@ Estos códigos, junto con manuales explicativos y material de apoyo, se encuentr
 
 ---
 
-### 🔬 Acoplamiento molecular consenso
+### Acoplamiento molecular consenso
 
 - **Acoplamiento molecular automatizado con LeDock**  
 - **Acoplamiento molecular con AutoDock Vina**  
@@ -41,15 +41,15 @@ Estos códigos, junto con manuales explicativos y material de apoyo, se encuentr
 
 ---
 
-## 🧰 Herramientas utilizadas
+## Herramientas utilizadas
 
 - **Lenguajes y bibliotecas:** Python, RDKit, Scikit-learn, Pandas, Matplotlib  
-- **Software de acoplamiento:** LeDock, AutoDock Vina  
+- **Software de acoplamiento:** LeDock, AutoDock Vina, MOE, Pymol, Mgltools  
 - **Plataformas:** GitHub, GitBook  
 
 ---
 
-## 👨‍🔬 Autor
+## Autor
 
 **Jesús Armando Rufino Valencia**  
 Facultad de Química, UNAM  
@@ -57,6 +57,6 @@ Facultad de Química, UNAM
 
 ---
 
-## 📝 Licencia
+## Licencia
 
 Este repositorio se encuentra bajo la [Licencia MIT](LICENSE). Puedes usar, modificar y distribuir el contenido con atribución adecuada.
