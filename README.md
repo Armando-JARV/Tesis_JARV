@@ -7,8 +7,7 @@ Como parte de los objetivos del proyecto, se desarrollaron códigos de libre acc
 Estos códigos, junto con manuales explicativos y material de apoyo, se encuentran disponibles en este repositorio y organizados en formato interactivo mediante GitBook.
 
 **GitBook del proyecto:**  
-[https://github.com/Armando-JARV/Tesis_JARV](https://github.com/Armando-JARV/Tesis_JARV) *(Cuando lo publiques en GitBook, puedes reemplazar este enlace por el directo al GitBook.)*
-
+[https://github.com/Armando-JARV/Tesis_JARV](https://github.com/Armando-JARV/Tesis_JARV) 
 ---
 
 ##  Contenido del GitBook
