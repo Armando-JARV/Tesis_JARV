@@ -14,5 +14,5 @@
 * [Acoplamiento con VINA](Acoplamiento_Molecular_Consenso/VINA.md)
 * [Cálculo de RMSD](Acoplamiento_Molecular_Consenso/RMSD.md)
 * [Fusión de métricas de acoplamiento](Acoplamiento_Molecular_Consenso/Metricas_Fusion.md)
-* [Clasificación consenso exponencial multidiana](Acoplamiento_Molecular_Consenso/Clasificacion_ECR.md)
+* [Clasificación consenso exponencial multidiana](Acoplamiento_Molecular_Consenso/Clasificacion_ECR/ClasificacionECR.md)
 * [Curvas ROC y correlación de Spearman](Acoplamiento_Molecular_Consenso/CurvasROC.md)
