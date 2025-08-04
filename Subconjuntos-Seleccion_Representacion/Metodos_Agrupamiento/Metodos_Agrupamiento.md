@@ -34,7 +34,7 @@ Es posible que un algoritmo funcione bien con un tipo de datos y de forma defici
 A continuación, se enlistan las principales técnicas de agrupamiento:
 
 - **Agrupamiento basado en centroides** (*Centroid-based clustering*)
-- **Agrupamiento jerárquico** (Subconjuntos-Seleccion_Representacion/Metodos_Agrupamiento/Agrupamiento_Jerarquico.md.md)
+- **Agrupamiento jerárquico** [Agrupamiento Jerárquico](Subconjuntos-Seleccion_Representacion/Metodos_Agrupamiento/Agrupamiento_Jerarquico.md.md)
 - **Agrupamiento basado en distribución** (*Distribution-based clustering*)
 - **Agrupamiento basado en densidad** (*Density-based clustering*)
 - **Agrupamiento basado en rejillado** (*Grid-based clustering*)
