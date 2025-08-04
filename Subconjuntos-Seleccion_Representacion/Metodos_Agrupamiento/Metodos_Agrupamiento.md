@@ -4,7 +4,7 @@ El agrupamiento, también conocido como *clustering*, es una técnica de **apren
 
 ---
 
-![Figura 1. Representación de cómo el clustering puede ser empleado para identificar patrones en un conjunto de datos](ruta/a/imagen1.png)
+![Figura 1. Representación de cómo el clustering puede ser empleado para identificar patrones en un conjunto de datos](Subconjuntos-Seleccion_Representacion/Metodos_Agrupamiento/Figuras/fig1.webp)
 
 Esta técnica, a través de algoritmos que calculan la similitud entre datos, los agrupa en función de su proximidad. Dependiendo del tipo de datos que se posean y del objetivo del análisis, pueden emplearse una gran variedad de algoritmos de agrupamiento. Algunos de los más conocidos son: **k-means**, **DBSCAN** y **agrupamiento jerárquico** (*hierarchical clustering*).
 
